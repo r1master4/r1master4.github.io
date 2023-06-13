@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:ital@1&family=Amatic+SC:wght@700&family=Comfortaa:wght@600&family=Inter:wght@500&family=Lobster&family=Lobster+Two&display=swap');
+
+body{
+    background: #ff9d9d;
+}
+.pustota{
+    margin: 99px 0px 99px 0px;
+}
+.a__right_button{
+    background: linear-gradient(135deg, rgba(248,255,0,1) 0%, rgba(92,92,92,1) 0%, rgba(250,0,230,1) 100%);
+    padding: 13px;
+    border-radius: 35px;
+    text-align: center;
+    font-size: 19px;
+    text-decoration: none;
+    color: #000;
+    flex: 1;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    border: solid #fff 4px
+}
+.a__left_button{
+    background: linear-gradient(135deg, rgba(248,255,0,1) 0%, rgba(92,92,92,1) 100%, rgba(250,0,230,1) 100%);
+    padding: 13px;
+    border-radius: 35px;
+    text-align: center;
+    font-size: 19px;
+    text-decoration: none;
+    color: #000;
+    flex: 1;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    border: solid #fff 4px
+}
+.button_conteiner{
+    display: flex;
+}
+main{
+    font-family: 'Lobster Two', cursive;
+    color: #000;
+    text-align: center;
+    border-radius: 100px;
+    margin: 80px;
+    padding: 77px;
+}
+header{
+    color: #000;
+    font-family: 'Lobster', cursive;
+    font-size: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+    margin: 80px;
+}
